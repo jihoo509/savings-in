@@ -254,7 +254,7 @@ export default function App() {
       <main className="relative z-10 w-full max-w-7xl mx-auto pt-6 lg:pt-8 container section flex-grow">
         {/* 상단 제목 */}
         <div className="mb-8 lg:mb-12 flex flex-col items-center gap-y-2">
-          <h1 className="hero-title">저축보험 비교 전문가</h1>
+          <h1 className="hero-title">연금저축 비교 전문가</h1>
           <p className="hero-sub text-10xl font-bold">1:1 상담 신청</p>
         </div>
 

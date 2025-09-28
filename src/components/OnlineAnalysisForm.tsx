@@ -82,7 +82,7 @@ export function OnlineAnalysisForm({ title }: OnlineAnalysisFormProps) {
     try {
       const payload = {
         type: 'online' as const,
-        site: '저축보험',
+        site: '연금저축',
         name: formData.name.trim(),
         phone: `010-${(formData.phoneNumber || '').trim()}`,
         birth: formData.birthDate.trim(),
